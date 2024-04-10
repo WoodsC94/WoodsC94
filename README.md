@@ -1,17 +1,20 @@
-<h1>Hi, I'm Chris 👋<br/><a href="https://github.com/WoodsC94">Programmer</a>, <a href="https://www.linkedin.com/in/woodsc">Network Administrator</a>
+<h1>Hi, I'm Chris 👋<br/> <a href="https://www.linkedin.com/in/woodsc">Network Administrator</a>
 
 - 🔭 I’m currently working on Network+ Certification
 - 🌱 I’m currently learning Network Security
 
 <h2>👨‍💻 General IT Projects:</h2>
+
 - [Active Directory Home Lab](https://github.com/WoodsC94/LABURL)
 
 <h2>🖥️ Networking Projects:</h2>
+
 - [Virtualized Network](https://github.com/WoodsC94/LABURL)
 
 
 <h2>📜 Certifications:</h2>
-- Comptia A+ 
+
+- [Comptia A+](https://www.credly.com/badges/38878ebf-689b-43e9-a55c-c018b4cd84cd/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
