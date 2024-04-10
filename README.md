@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/WoodsC94/LABURL)
+- [Active Directory Home Lab](https://github.com/WoodsC94/ActiveDirectoryLab)
 
 <h2>🖥️ Networking Projects:</h2>
 
