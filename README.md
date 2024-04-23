@@ -1,31 +1,33 @@
-<h1>Hi, I'm Chris 👋<br/> <a href="https://www.linkedin.com/in/woodsc">Network Administrator</a>
+# Hi there 👋, my name is Christopher
+## I am a furture Network Administrator
+I'm Chris from Tennessee, I am beginning my journey into the IT field with a big goal of becoming a Network Administrator. I enjoy helping others and learning new technologies such as SCCM, virtualization in proxmox, and Niginx. 
 
-- 🔭 I’m currently working on Network+ Certification
-- 🌱 I’m currently learning Network Security
-
-<h2>👨‍💻 General IT Projects:</h2>
+### 👨‍💻 General IT Projects:
 
 - [Active Directory Home Lab](https://github.com/WoodsC94/ActiveDirectoryLab)
 
-<h2>🖥️ Networking Projects:</h2>
+### 🖥️ Networking Projects:
 
 - [Virtualized Network](https://github.com/WoodsC94/LABURL)
 
 
-<h2>📜 Certifications:</h2>
+### 📜 Certifications:
 
 - [Comptia A+](https://www.credly.com/badges/38878ebf-689b-43e9-a55c-c018b4cd84cd/public_url)
 
+Skills: A+ / Virtualization / BIS-Mapper
 
-<h2> 🤳 Connect with me:</h2>
+- 🔭 I’m currently working on Comptia Network+ Certification 
+- 🌱 I’m currently learning Network Security 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WoodsC94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/woodsc/)  
 
-
-[linkedin]: https://www.linkedin.com/in/woodsc
 
 <!--
 **WoodsC94/WoodsC94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Here are some ideas to get you started:
 
