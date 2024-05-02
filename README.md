@@ -6,10 +6,6 @@ I'm Chris from Tennessee, I am beginning my journey into the IT field with a big
 
 - [Active Directory Home Lab](https://github.com/WoodsC94/ActiveDirectoryLab)
 
-### 🖥️ Networking Projects:
-
-- [Virtualized Network](https://github.com/WoodsC94/LABURL)
-
 
 ### 📜 Certifications:
 
