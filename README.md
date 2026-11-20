@@ -11,9 +11,9 @@ I'm Chris from Tennessee, I am beginning my journey into the IT field with a big
 
 - [Comptia A+](https://www.credly.com/badges/38878ebf-689b-43e9-a55c-c018b4cd84cd/public_url)
 
-Skills: A+ / Virtualization / BIS-Mapper
+Skills: A+ / Virtualization / Active Directory /BIS-Mapper / Print Server Management
 
-- 🔭 I’m currently working on Comptia Network+ Certification 
+- 🔭 I’m currently working on CCNA Certification 
 - 🌱 I’m currently learning Network Security 
 
 ## 🤳 Connect with me:
